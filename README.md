@@ -3,6 +3,7 @@
 
 Cow Monitoring Tag: Comprehensive Report
 Introduction
+
 The Cow Monitoring Tag is a cutting-edge technology designed to improve livestock management
 by providing real-time insights into the health, behavior, and location of individual cows. This report
 highlights its features, benefits, technical specifications, and implementation impact.
